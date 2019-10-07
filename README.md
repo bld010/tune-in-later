@@ -8,12 +8,12 @@ Brianna DelValle [github account](https://github.com/bld010)<br>
 Brandy Mello [github account](https://github.com/BrandyMello)<br>
 
 ## Learning Goals
-Write well refactored code using ES6 syntax
-Create a user-friendly design
-Utilize network requests including GET, POST, & DELETE
-Create re-usable and clean components with React
-Use Redux’s lifecycle methods, actions, reducers, and connect them to React components
-Utilize React components, asynchronous code, route handling, and Redux testing.
+* Write well refactored code using ES6 syntax
+* Create a user-friendly design
+* Utilize network requests including GET, POST, & DELETE
+* Create re-usable and clean components with React
+* Use Redux’s lifecycle methods, actions, reducers, and connect them to React components
+* Utilize React components, asynchronous code, route handling, and Redux testing.
 
 ## Technology Used
 * JavaScript
