@@ -1,6 +1,6 @@
 # Tune In Later
 
-ListenLater is an audiobooks streaming site. When a visitor arrives, there are several genres available to browse. When a book is clicked, a description pops up. A search bar is available to search books by title, genre, or author. In order for the user to do anything beyond browsing at descriptions of the audiobooks available, the visitor must login. Once the user has signed in or created a login account, books are available to add to a collection of favorites by clicking the star on the cover. The user can come back to their collection anytime the user is logged in.
+ListenLater is an audiobooks streaming site. When a visitor arrives, there are several genres available to browse. When a book is clicked, a description pops up. A search bar is available to search books by title, genre, or author. In order for the user to do anything beyond browsing at descriptions of the audiobooks available, the visitor must login. Once the user has signed in or has created an account, books are available to add to a collection of favorites by clicking the star on the cover. The user can come back to their collection any time the user is logged in.
 
 ## Collaborators
 David Gitlen [github account](https://github.com/davidagitlen)<br>
@@ -51,7 +51,7 @@ For information on how to do this read [this](https://postgresapp.com/documentat
 * You will need to close your terminal window and re-open it for the changes to take effect
   
 #### Creating our database
-* Make sure you are in the `favorties-tracker-api` directory
+* Make sure you are in the `favorites-tracker-api` directory
 * From the command line, run the following command to create a users database `psql -f ./db/tables.sql`
 * When you start up the server (`npm install` and `npm start`
 
